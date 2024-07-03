@@ -8,6 +8,7 @@ This technology is widely used in applications like augmented reality, human-com
 * Run the following lines of code
 * Mount your drive
 * Upload the path of the input video
-* Use this Colab link "https://colab.research.google.com/drive/1G0CiXaX1_JApHJuKfUlPtlgESYEb3wrQ?usp=sharing"
+* Use this Colab link
+https://colab.research.google.com/drive/1G0CiXaX1_JApHJuKfUlPtlgESYEb3wrQ?usp=sharing
 
 # Output
