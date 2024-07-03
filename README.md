@@ -13,10 +13,12 @@ This technology is widely used in applications like augmented reality, human-com
 # Output
 1. Given Input and the result
   <p align = "Center">
-  <video src ='https://github.com/AashikaShravani/Pose_Estimation/assets/140937457/50e491f0-be98-46a1-855b-203982b2c214'> 
-  <video src ='https://github.com/AashikaShravani/Pose_Estimation/assets/140937457/358306e2-43c0-493c-a97d-afeb50de6630'>
+  <video src ='https://github.com/AashikaShravani/Pose_Estimation/assets/140937457/50e491f0-be98-46a1-855b-203982b2c214'>
   </p>
 
+   <p align = "Center">
+  <video src ='https://github.com/AashikaShravani/Pose_Estimation/assets/140937457/358306e2-43c0-493c-a97d-afeb50de6630'>
+     </p>
 
 
 
